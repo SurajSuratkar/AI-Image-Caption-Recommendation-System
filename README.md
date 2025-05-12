@@ -11,3 +11,20 @@ This project generates image captions using deep learning and suggests alternati
 
 ##  How to Run
 1. Install dependencies:
+2. Launch Jupyter Notebook:
+3. Open the `.ipynb` file and run each cell.
+
+## 🤖 Features
+- Upload an image
+- Generate a caption using a neural network
+- Recommend alternative captions using NLP
+
+## 🔗 Model
+Pretrained models used (mention if applicable):  
+- CNN (like InceptionV3, ResNet)  
+- LSTM / Transformer  
+- HuggingFace models (optional)
+
+---
+
+Feel free to contribute or raise issues!
